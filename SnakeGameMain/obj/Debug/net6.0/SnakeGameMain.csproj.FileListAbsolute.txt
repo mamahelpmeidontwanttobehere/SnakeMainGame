@@ -1,0 +1,15 @@
+C:\Users\05seda31\source\repos\SnakeGameMain\obj\Debug\net6.0\SnakeGameMain.csproj.AssemblyReference.cache
+C:\Users\05seda31\source\repos\SnakeGameMain\obj\Debug\net6.0\SnakeGameMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\05seda31\source\repos\SnakeGameMain\obj\Debug\net6.0\SnakeGameMain.AssemblyInfoInputs.cache
+C:\Users\05seda31\source\repos\SnakeGameMain\obj\Debug\net6.0\SnakeGameMain.AssemblyInfo.cs
+C:\Users\05seda31\source\repos\SnakeGameMain\obj\Debug\net6.0\SnakeGameMain.csproj.CoreCompileInputs.cache
+C:\Users\05seda31\source\repos\SnakeGameMain\bin\Debug\net6.0\SnakeGameMain.exe
+C:\Users\05seda31\source\repos\SnakeGameMain\bin\Debug\net6.0\SnakeGameMain.deps.json
+C:\Users\05seda31\source\repos\SnakeGameMain\bin\Debug\net6.0\SnakeGameMain.runtimeconfig.json
+C:\Users\05seda31\source\repos\SnakeGameMain\bin\Debug\net6.0\SnakeGameMain.dll
+C:\Users\05seda31\source\repos\SnakeGameMain\bin\Debug\net6.0\SnakeGameMain.pdb
+C:\Users\05seda31\source\repos\SnakeGameMain\obj\Debug\net6.0\SnakeGameMain.dll
+C:\Users\05seda31\source\repos\SnakeGameMain\obj\Debug\net6.0\refint\SnakeGameMain.dll
+C:\Users\05seda31\source\repos\SnakeGameMain\obj\Debug\net6.0\SnakeGameMain.pdb
+C:\Users\05seda31\source\repos\SnakeGameMain\obj\Debug\net6.0\SnakeGameMain.genruntimeconfig.cache
+C:\Users\05seda31\source\repos\SnakeGameMain\obj\Debug\net6.0\ref\SnakeGameMain.dll
